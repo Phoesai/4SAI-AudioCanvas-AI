@@ -1,0 +1,6 @@
+{
+  "name": "4SAI AudioCanvas AI",
+  "description": "4SAI AudioCanvas AI - Transform MP3 into copyright-safe animated music visuals with original or AI artwork, Ken Burns motion, particles, light leaks, and audio waveforms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
